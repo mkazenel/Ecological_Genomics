@@ -23,3 +23,9 @@ Implementation:
 [hyperlinked words](http://www.uvm.edu/)
 
 Here is a link to UVM's [website](http://www.uvm.edu/).
+
+Example of embedding an image:   
+Syntax:
+```
+![](URL)
+```
