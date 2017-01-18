@@ -20,3 +20,4 @@ Syntax:
 [hyperlinked words](http://www.uvm.edu/)
 ```
 Implementation:
+[hyperlinked words](http://www.uvm.edu/)
