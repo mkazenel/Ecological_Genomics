@@ -15,6 +15,7 @@ Syntax for creating a list
 ```
 
 Example of embedding a URL:
+
 Syntax:
 ```
 [hyperlinked words](http://www.uvm.edu/)
